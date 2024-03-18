@@ -3,7 +3,6 @@ import csv
 str2 = "~^SKjnk:e9cQyVOwLs5I0R`g>4XN!=23x6<a8+T_zvpioCW%J@DUY,Fd;?rfZ1lBqm$&EPG7-/bt*|#.AuhMH"
 str1 = "A>lTMgzKpkvnt/%UPFqVN|2rw&$DQj.08-4<d=;J1?u~@+W:sbHCef5x3iZBS_c`6,hXym9Ia^!7EoY#LRGO*"
 duplicate_list = []
-s = ""
 
 def read_csv(csv):
     for row in csv:
